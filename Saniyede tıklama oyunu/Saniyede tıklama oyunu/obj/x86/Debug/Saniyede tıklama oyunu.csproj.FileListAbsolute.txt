@@ -1,0 +1,7 @@
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Saniyede tıklama oyunu\Saniyede tıklama oyunu\bin\Debug\Saniyede tıklama oyunu.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Saniyede tıklama oyunu\Saniyede tıklama oyunu\bin\Debug\Saniyede tıklama oyunu.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Saniyede tıklama oyunu\Saniyede tıklama oyunu\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Saniyede tıklama oyunu\Saniyede tıklama oyunu\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Saniyede tıklama oyunu\Saniyede tıklama oyunu\obj\x86\Debug\Saniyede tıklama oyunu.csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Saniyede tıklama oyunu\Saniyede tıklama oyunu\obj\x86\Debug\Saniyede tıklama oyunu.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Saniyede tıklama oyunu\Saniyede tıklama oyunu\obj\x86\Debug\Saniyede tıklama oyunu.pdb
